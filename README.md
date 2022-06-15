@@ -1,8 +1,8 @@
 <p align='center'>
-  <b>Hi 👋, Hi, I’m @Mj-Eng-923</b><br>
-  <b>Hi 👀, I’m interested in C# & python</b><br>
-  <b>Hi 🌱, I’m currently learning python</b><br>
-  <b>Hi 📫, No ways to reach me</b><br>
+  <b>👋, Hi, I’m @Mj-Eng-923</b><br>
+  <b>👀, I’m interested in C# & python</b><br>
+  <b>🌱, I’m currently learning python</b><br>
+  <b>📫, No ways to reach me</b><br>
 </p>
 
 <br><br>
