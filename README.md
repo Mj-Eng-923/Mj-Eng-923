@@ -1,4 +1,4 @@
-<p align='center' font-size: 18px;>
+<p align='center'>
   <b>👋 Hi, I’m @Mj-Eng-923</b><br>
   <b>👀 I’m interested in C# & python</b><br>
   <b>🌱 I’m currently learning python</b><br>
